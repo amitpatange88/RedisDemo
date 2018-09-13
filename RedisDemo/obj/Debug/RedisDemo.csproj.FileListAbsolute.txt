@@ -1,0 +1,8 @@
+C:\E\VS-Programs\RedisDemo\RedisDemo\bin\Debug\RedisDemo.exe.config
+C:\E\VS-Programs\RedisDemo\RedisDemo\bin\Debug\RedisDemo.exe
+C:\E\VS-Programs\RedisDemo\RedisDemo\bin\Debug\RedisDemo.pdb
+C:\E\VS-Programs\RedisDemo\RedisDemo\bin\Debug\StackExchange.Redis.dll
+C:\E\VS-Programs\RedisDemo\RedisDemo\bin\Debug\StackExchange.Redis.xml
+C:\E\VS-Programs\RedisDemo\RedisDemo\obj\Debug\RedisDemo.csprojResolveAssemblyReference.cache
+C:\E\VS-Programs\RedisDemo\RedisDemo\obj\Debug\RedisDemo.exe
+C:\E\VS-Programs\RedisDemo\RedisDemo\obj\Debug\RedisDemo.pdb
