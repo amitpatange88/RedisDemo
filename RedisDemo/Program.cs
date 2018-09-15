@@ -11,6 +11,7 @@ namespace RedisDemo
     {
         static void Main(string[] args)
         {
+            //Creating redis connection on server.
             ConnectionMultiplexer redis = ConnectionMultiplexer.Connect("localhost");
             IDatabase db = redis.GetDatabase();
             string clientId = db.StringGet("ClientId");
